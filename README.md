@@ -8,4 +8,6 @@ Integration of a mycroft core  in the volumio os
 5. install cmake << sudo apt-get install cmake>> 
 5. clone the mycroft code as suggested in https://github.com/MycroftAI/mycroft-core, cloning the master branch with git clone --depth=1 --branch=master https://github.com/MycroftAI/mycroft-core.git
 6. following instruction to install mycroft (runnin dev-setup.sh)
+7. type export LC_ALL=C
+8. just create the file /etc/asound.conf
   
